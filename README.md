@@ -12,3 +12,4 @@
 ###### While
 ###### Conditional
 ###### Comparisons
+###### Functions
